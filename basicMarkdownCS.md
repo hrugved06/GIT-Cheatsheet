@@ -1,24 +1,24 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Basic Syntax <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-## `Headings.`
+## `Headings`
 
->Heading level 1
-# Heading level 1
+- Heading level 1
+># This is Hrugved
 
->Heading level 2
-## Heading level 2	
+- Heading level 2
+>## This is Hrugved
 
->Heading level 3
-### Heading level 3	
+- Heading level 3
+>### This is Hrugved	
 
->Heading level 4
-#### Heading level 4	
+- Heading level 4
+>#### This is Hrugved	
 
->Heading level 5
-##### Heading level 5	
+- Heading level 5
+>##### This is Hrugved	
 
->Heading level 6
-###### Heading level 6	
+- Heading level 6
+>###### This is Hrugved	
 
 ---
 
@@ -42,21 +42,21 @@ Love **is** bold
 
 ## `Italic`
 
-Italicized text is the _cat's meow_.
+This is an _italic text_.
 
-Italicized text is the *cat's meow*.
+Another syntax for *italic text*.
 
-A*cat*meow
+This is *Hrugved*
 
 ---
 
 ## `Bold and Italic`
 
-This text is ***really important***.
+This text is ***bold and itallic***.
 
 This text is ___really important___.
 
-This text is __*really important*__.
+This text is __*bold and itallic*__.
 
 This text is **_really important_**.
 
@@ -66,7 +66,7 @@ This is really ***very*** important text.
 
 ## `Blackquotes`
 
->Blockquote
+>Highlights the text in a quote
 
 ---
 
@@ -88,7 +88,7 @@ This is really ***very*** important text.
 
 ## `Code`
 
-	`code`
+	print('Hello W0rld')
 
 ---
 
@@ -98,12 +98,12 @@ This is really ***very*** important text.
 ---
 
 ## `Link`	
-[Click Here](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
+To get to my portfolio [Click Here](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
 
 ---
 
 ## `Image`
 
-![text](image.jpg)
+![My website](https://raw.githubusercontent.com/hrugved06/Portfolio-Hrugved-Kolhe/main/holdings/images/projects/websitefpp.jpeg)
 
 ---

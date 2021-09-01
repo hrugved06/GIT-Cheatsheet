@@ -3,10 +3,11 @@
 
 ## `Table`
 
-| Syntax | Description |
+| Column 1 | Column 2 |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Name | Hrugved Kolhe |
+| Address | Earth |
+| Contact | someone@xyz.com |
 
 ---
 

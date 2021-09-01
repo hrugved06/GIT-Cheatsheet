@@ -54,11 +54,11 @@ This is *Hrugved*
 
 This text is ***bold and itallic***.
 
-This text is ___really important___.
+This text is ___bold and itallic___.
 
 This text is __*bold and itallic*__.
 
-This text is **_really important_**.
+This text is **_Bold and itallic_**.
 
 This is really ***very*** important text.
 
@@ -86,7 +86,7 @@ This is really ***very*** important text.
 
 ---
 
-## `Code`
+## `Code block`
 
 	print('Hello W0rld')
 
@@ -98,7 +98,7 @@ This is really ***very*** important text.
 ---
 
 ## `Link`	
-To get to my portfolio [Click Here](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
+To go to my portfolio [Click Here](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
 
 ---
 

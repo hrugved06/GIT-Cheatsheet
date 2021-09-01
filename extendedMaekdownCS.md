@@ -46,6 +46,6 @@ term
 
 ## `Task List`
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] <- Completed
+- [ ] Update the website (Not completed)
+- [ ] Contact the media (Not Completed)

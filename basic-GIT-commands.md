@@ -8,7 +8,7 @@
 | Git version check | `git --version` |
 | Update Git to the latest version on Windows | `git update-git-for-windows` |
 | Update Git to the latest version on Linux | `sudo apt-get update` > `sudo apt-get install git` |
-| Update Git to the latest version on MacOS | `brew install git` > `brew updrage git`|
+| Update Git to the latest version on MacOS | `brew update` > `brew install git`|
 
 ---
 

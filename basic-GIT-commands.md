@@ -22,7 +22,7 @@
 
 ---
 
-## Git directory setup commands
+## INIT and Setup commands
 
 | Description | Commands |
 | ----------- | ----------- |

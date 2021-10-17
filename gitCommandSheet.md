@@ -24,3 +24,22 @@
 | ----------- | ----------- |
 | Initializes a git repository | `git init` |
 | Clone a remote repository to local system | `git clone <url>` |
+
+## Git Basic Commands to interact with remote repository
+
+| Description | Commands |
+| ----------- | ----------- |
+| Adds a specific untracked or modified file to the staging area | `git add <filename.extension>` |
+| Adds all untracked or modified files to staging area  | `git add -A` or `git add .` |
+|Shows status of the files in the directory (untracked/added/modified/deleted/etc.)|`git status`|
+|Commits a specific modified or deleted file | `git commit <fileName.extension>`|
+| Stages all (a) files automatically that have been modified and deleted | `git commit -a` |
+|Stages a commit of with a custom message (m) | `git commit -m 'Message'` |
+|Push local commits to the remote repository branch |`git push <alias> <branch>`|
+|Push local commits to the remote server |`git push`|
+
+
+
+
+
+- *Note: `FileName.extension` can be a `file path` too based on the directory you are in.

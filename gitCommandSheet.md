@@ -18,3 +18,9 @@
 | Setting up UserEmail | `git config --global user.email "Your Email"` |
 | View all your Git settings | `git config --list --show-origin` |
 
+## Git directory setup commands
+
+| Description | Commands |
+| ----------- | ----------- |
+| Initializes a git repository | `git init` |
+| Clone a remote repository to local system | `git clone <url>` |

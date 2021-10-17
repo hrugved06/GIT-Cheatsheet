@@ -1,4 +1,4 @@
-# GIT Command-line Guide
+# Basic GIT Command-line Guide
 
 - Install Git VCS :- [ Click here!](https://git-scm.com/downloads) 
 
@@ -38,8 +38,15 @@
 |Push local commits to the remote repository branch |`git push <alias> <branch>`|
 |Push local commits to the remote server |`git push`|
 
+With the help of above commands one can do interaction with a remote repository if a proper workflow if followed*.
+
+e.g. Lets say you want to add some feature in your organization's website homepage, what you need to do is fork the repository to your GitHub account the by copying the remote URL `clone` it on your local machine, add the code required for your feature X and stage the changes in the staging area with `git add`, after adding all the changes `commit` the changes with a proper commit message and finally `push` commited changes with a alias on a remote repository branch. Then creating a pull request will ultimately merge the changes to the main repository. Tada! 
+
+- Basic Workflow: 
+1. `git clone https://github.com/OSSdeveloper/webExperiments.git`
+2. `git add index.html`
+3. `git commit -m 'Added feature X'`
+4. `git push origin main`.
 
 
-
-
-- *Note: `FileName.extension` can be a `file path` too based on the directory you are in.
+*Note:- This is an example of very basic workflow, based upon the requirements and changes you do the workflow will vary.

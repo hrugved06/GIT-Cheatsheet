@@ -106,6 +106,6 @@ To go to my portfolio [Click Here](https://hrugved06.github.io/Portfolio-Hrugved
 
 ## `Image`
 
-![My website](https://raw.githubusercontent.com/hrugved06/Portfolio-Hrugved-Kolhe/main/holdings/images/projects/websitefpp.jpeg)
+![My website](https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171__480.jpg)
 
 ---
